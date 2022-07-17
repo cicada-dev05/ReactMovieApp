@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.navbar{
+     background: #252422;
+     padding:  20px 20px 10px 20px;
+     color: #CCC5B9;
+     font-family: 'Bebas Neue', cursive;
+}
+
+h3{
+     font-size: 40px;
+}
