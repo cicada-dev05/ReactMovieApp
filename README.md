@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+LINK TO PROJECT:  https://cicada-dev05.github.io/ReactMovieApp/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
